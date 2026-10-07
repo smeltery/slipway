@@ -20,10 +20,10 @@ slipway shot MyApp
 ```
 
 [Install and start](docs/getting-started.md) · [Documentation](docs/README.md) ·
-[Website](https://smeltery.github.io/slipway/) · [Releases](https://github.com/smeltery/slipway/releases)
+[Releases](https://github.com/smeltery/slipway/releases)
 
 Requires macOS for app testing. Local Tart VMs require Apple silicon; an existing
 remote Mac can also be used. See [requirements](docs/getting-started.md).
 
-Licensed under the exact [Smeltery Hab license](LICENSE). Upstream MIT notices
+Licensed under [PolyForm Shield 1.0.0](LICENSE). Upstream MIT notices
 are preserved in [provenance](docs/provenance.md).
