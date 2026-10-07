@@ -1,7 +1,8 @@
 # Getting started
 
 Local VMs require an Apple silicon Mac and [Tart](https://tart.run). Reserve
-roughly 25 GB for the base image plus working disk space. Install Tart with:
+roughly 25 GB for the base image plus working disk space. The Flox environment includes Tart on Apple silicon; activate it before using
+Slipway. If you prefer a standalone installation, install Tart with:
 
 ```sh
 brew install cirruslabs/cli/tart
