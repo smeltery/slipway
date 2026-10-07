@@ -1,6 +1,6 @@
 # <img src="assets/logo.svg" width="36" height="36" alt="" /> Slipway
 
-**Test your app. Keep your screen.**
+![Slipway — Test your app. Keep your screen.](assets/og.png)
 
 [![CI](https://github.com/smeltery/slipway/actions/workflows/ci.yml/badge.svg)](https://github.com/smeltery/slipway/actions/workflows/ci.yml)
 [![Release](https://img.shields.io/github/v/release/smeltery/slipway)](https://github.com/smeltery/slipway/releases)
