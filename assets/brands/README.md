@@ -6,3 +6,4 @@ Third-party marks identify the tools used by this project.
 - Bun: [official logo](https://bun.sh/logo.svg).
 - Flox: [official favicon](https://flox.dev/favicon.svg).
 - Tart: [official logo](https://tart.run/assets/images/TartLogo.png).
+- Smeltery Labs: shared organization mark from `smeltery/trellis/fork/branding/smeltery.png`.
